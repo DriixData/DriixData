@@ -2,7 +2,8 @@
 
 ## About Me
 
-Hi! I’m Cédric, a **Data Analyst** passionate about turning data into actionable insights. My goal is to build robust analytical solutions using cutting-edge technologies to solve complex problems.
+Hi! I’m Cédric, a **Data Analyst** passionate about turning data into actionable insights. 
+My goal is to build robust analytical solutions using cutting-edge technologies to solve complex problems.
 
 
 ## 💻 Technical Skills
