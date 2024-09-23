@@ -4,6 +4,7 @@
 
 Hi! I’m Cédric, a **Data Analyst** passionate about turning data into actionable insights. My goal is to build robust analytical solutions using cutting-edge technologies to solve complex problems.
 
+
 ## 💻 Technical Skills
 Here are the tools and technologies I regularly use in my projects:
 
@@ -14,6 +15,7 @@ Here are the tools and technologies I regularly use in my projects:
 - **Machine Learning**: Scikit-learn, TensorFlow (for basic predictive models)
 - **Cloud Tools**: AWS (S3, Lambda), Google Cloud
 - **Other Tools**: Git, Jupyter Notebook, Excel
+
 
 ## 📊 Featured Projects
 
@@ -32,14 +34,17 @@ Here are the tools and technologies I regularly use in my projects:
    - 🔧 Tools: Python, Pandas, Matplotlib, Power BI
    - 🌟 [Link to the project](#)
 
+
 ## 🎯 Current Goals
 - Deepen my skills in **Machine Learning**.
 - Explore **Artificial Intelligence** applications in data analysis.
 - Contribute to open-source projects related to data analytics.
 
+
 ## 🚀 How to Contact Me
 - **LinkedIn**: [See my LinkedIn Profile](https://www.linkedin.com/in/c3dr1c/)
 - **Email**: [Send me your best email](mailto:cedric.rouedou@gmail.com)
+
 
 Thank you for visiting my GitHub profile! 
 Feel free to explore my projects and reach out for collaborations or new opportunities.
