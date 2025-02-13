@@ -9,30 +9,30 @@ My goal is to build robust analytical solutions using cutting-edge technologies 
 ## 💻 Technical Skills
 Here are the tools and technologies I regularly use in my projects:
 
-- **Programming Languages**: Python, SQL, R
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+- **Programming Languages**: Python, SQL, DAX
+- **Data Visualization**: Power BI, Matplotlib, Seaborn
 - **Data Wrangling**: Pandas, NumPy
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Machine Learning**: Scikit-learn, TensorFlow (for basic predictive models)
+- **Databases**: MySQL
+- **Machine Learning**: Scikit-learn,
 - **Cloud Tools**: AWS (S3, Lambda), Google Cloud
-- **Other Tools**: Git, Jupyter Notebook, Excel
+- **Other Tools**: Git, Jupyter Notebook, Excel, VS Code
 
 
 ## 📊 Featured Projects
 
-### 1. **E-commerce Sales Analysis**
-   - 📄 Description: Project analyzing online sales performance to identify best-selling products and high-performance periods.
-   - 🔧 Tools: Python, Pandas, Matplotlib, Tableau
-   - 🌟 [Link to the project](#)
+### 1. **The Rock'mendation**
+   - 📄 Description: Streamlit movie recommendation application using machine learning algorithms.
+   - 🛠 Tools: Python, Pandas, Scikit-Learn, Streamlit
+   - 🌟 [Link to the project](https://github.com/DriixData/The-Rockommendation)
 
-### 2. **Customer Churn Prediction Model**
+### 2. **E-Shop Solutions**
    - 📄 Description: A predictive model to identify customers likely to churn, along with key visualizations.
-   - 🔧 Tools: Python, Scikit-learn, Seaborn, SQL
-   - 🌟 [Link to the project](#)
+   - 🛠 Tools: Python, Pandas, Power BI
+   - 🌟 [Link to the project](https://github.com/DriixData/E-Shop-Solutions)
 
 ### 3. **Real Estate Market Trends Analysis**
    - 📄 Description: Data analysis of real estate sales to determine price trends by region and property type.
-   - 🔧 Tools: Python, Pandas, Matplotlib, Power BI
+   - 🛠 Tools: Python, Pandas, Matplotlib, Power BI
    - 🌟 [Link to the project](#)
 
 
