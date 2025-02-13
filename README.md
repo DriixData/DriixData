@@ -18,7 +18,7 @@ Here are the tools and technologies I regularly use in my projects:
 - **Other Tools**: Git, Jupyter Notebook, Excel, VS Code
 
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
 ### 1. **The Rock'mendation**
    - 📄 Description: Streamlit movie recommendation application using machine learning algorithms.
@@ -42,7 +42,7 @@ Here are the tools and technologies I regularly use in my projects:
 - Contribute to open-source projects related to data analytics.
 
 
-## 🚀 How to Contact Me
+## 🤙 How to Contact Me
 - **LinkedIn**: [See my LinkedIn Profile](https://www.linkedin.com/in/c3dr1c/)
 - **Email**: [Send me your best email](mailto:cedric.rouedou@gmail.com)
 
