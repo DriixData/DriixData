@@ -9,11 +9,10 @@ My goal is to build robust analytical solutions using cutting-edge technologies 
 ## 💻 Technical Skills
 Here are the tools and technologies I regularly use in my projects:
 
-- **Programming Languages**: Python, SQL, DAX
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
+- **Programming Languages**: Python, SQL, DAX, HTML, CSS, Bootstrap, API, JSON
+- **Data Visualization**: Power BI, Matplotlib, Seaborn,  Plotly Express
 - **Data Wrangling**: Pandas, NumPy
-- **Databases**: MySQL
-- **Machine Learning**: Scikit-learn,
+- **Machine Learning**: Scikit-learn, NLP
 - **Cloud Tools**: AWS (S3, Lambda), Google Cloud
 - **Other Tools**: Git, Jupyter Notebook, Excel, VS Code
 
