@@ -19,26 +19,31 @@ Here are the tools and technologies I regularly use in my projects:
 
 ## 🚀 Featured Projects
 
-### 1. **The Rock'mendation**
+### 1. **Domaine des Croix**
+   - 📄 Description: Market analysis to help Domaine des Croix set a competitive wine price in the U.S.
+   - 🛠 Tools: Python, Pandas, Power Bi
+   - 🌟 [Link to the project](https://github.com/DriixData/Domaine-des-Croix)
+
+### 2. **The Rock'mendation**
    - 📄 Description: Streamlit movie recommendation application using machine learning algorithms.
    - 🛠 Tools: Python, Pandas, Scikit-Learn, Streamlit
    - 🌟 [Link to the project](https://github.com/DriixData/The-Rockommendation)
 
-### 2. **E-Shop Solutions**
+### 3. **Wild find job**
+   - 📄 Description: Collaborative app using data to assist job seekers in the Data field.
+   - 🛠 Tools: Python, Pandas
+   - 🌟 [Link to the project](https://github.com/DriixData/Wild-find-job)
+
+### 4. **E-Shop Solutions**
    - 📄 Description: A predictive model to identify customers likely to churn, along with key visualizations.
    - 🛠 Tools: Python, Pandas, Power BI
    - 🌟 [Link to the project](https://github.com/DriixData/E-Shop-Solutions)
-
-### 3. **Real Estate Market Trends Analysis**
-   - 📄 Description: Data analysis of real estate sales to determine price trends by region and property type.
-   - 🛠 Tools: Python, Pandas, Matplotlib, Power BI
-   - 🌟 [Link to the project](#)
 
 
 ## 🎯 Current Goals
 - Deepen my skills in **Machine Learning**.
 - Explore **Artificial Intelligence** applications in data analysis.
-- Contribute to open-source projects related to data analytics.
+- Be certified PL-300
 
 
 ## 🤙 How to Contact Me
