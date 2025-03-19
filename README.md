@@ -6,6 +6,8 @@ Hi! I’m Cédric,
 
 After a career as a trainer and web designer, where creativity was key, I shifted my expertise to data analysis—a field where precision meets innovation. My goal? Leveraging data to drive strategic decisions. I'm ready to apply my skills in Python, SQL, and Machine Learning to new projects and deliver data-driven solutions for tangible results.
 
+I also have a personal portfolio. Feel free to [explore it](https://driixdata.github.io/)! 🚀
+
 
 ## 💻 Technical Skills
 Here are the tools and technologies I regularly use in my projects:
