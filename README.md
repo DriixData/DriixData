@@ -2,8 +2,9 @@
 
 ## About Me
 
-Hi! I’m Cédric, a **Data Analyst** passionate about turning data into actionable insights.
-My goal is to build robust analytical solutions using cutting-edge technologies to solve complex problems.
+Hi! I’m Cédric, 
+
+After a career as a trainer and web designer, where creativity was key, I shifted my expertise to data analysis—a field where precision meets innovation. My goal? Leveraging data to drive strategic decisions. I'm ready to apply my skills in Python, SQL, and Machine Learning to new projects and deliver data-driven solutions for tangible results.
 
 
 ## 💻 Technical Skills
@@ -41,9 +42,9 @@ Here are the tools and technologies I regularly use in my projects:
 
 
 ## 🎯 Current Goals
+- Be certified PL-300
 - Deepen my skills in **Machine Learning**.
 - Explore **Artificial Intelligence** applications in data analysis.
-- Be certified PL-300
 
 
 ## 🤙 How to Contact Me
